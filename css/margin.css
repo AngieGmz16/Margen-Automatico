@@ -1,0 +1,19 @@
+div{
+	border: solid 1px black;
+	width: 800px;
+	padding: 10px 20px 10px 20px;
+}
+.cuadro{
+	border:solid 10px yellow;
+	width: 200px;
+	padding: 10px 10px 10px 10px;
+	margin: 0px 50px 10px 0px;
+}
+.cuadro2{
+	border:solid 10px yellow;
+	width: 200px;
+	padding: 10px 10px 10px 10px;
+	margin: auto;
+
+
+}
